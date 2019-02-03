@@ -39,8 +39,8 @@ sass:
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           Shuu Yoshida
-github-url:         https://github.com/s1yoshid
+facebook:           shuu.yoshida
+github-url:         s1yoshid
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -50,7 +50,7 @@ instagram:          shuutheshoe
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel

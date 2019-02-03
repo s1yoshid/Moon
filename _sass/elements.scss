@@ -119,12 +119,14 @@ img {
 }
 .img-circle {
 	border-radius: 50%;
-	border: 3px solid $white;
+    //edited by shuu
+	border: 3px solid #ACD1B6;
 	height: 150px;
 	width: 150px;
 }
 .author-photo {
-    background-color: $white;
+    //edited by shuu
+    background-color: #ACD1B6;
 }
 .image-right {
     float: right;

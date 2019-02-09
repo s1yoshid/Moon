@@ -21,7 +21,7 @@ body {
 	background-attachment: fixed;
 	@media #{$small} {
 	    background-image: none !important;
-		background: #ACD1B6;
+		background: #FFF600;
 	}
 }
 * {
@@ -39,7 +39,7 @@ body {
 	width: 100%;
 	min-height: 300px;
 	text-align: left;
-	color: #ACD1B6;
+	color: #11FF00;
 	@media #{$small} {
 		display: block !important;
 	}
@@ -75,7 +75,7 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	background-color: #ACD1B6;
+	background-color: #0094FF;
 	color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
@@ -104,7 +104,7 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: 4rem auto;
-	background: #ACD1B6;
+	background: #A900FF;
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
@@ -120,7 +120,7 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: -3rem auto 4rem;
-	background: #ACD1B6;
+	background: #FF00B9;
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;

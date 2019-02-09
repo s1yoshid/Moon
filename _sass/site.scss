@@ -21,7 +21,7 @@ body {
 	background-attachment: fixed;
 	@media #{$small} {
 	    background-image: none !important;
-		background: #FFF600;
+		background: $white;
 	}
 }
 * {
@@ -39,7 +39,7 @@ body {
 	width: 100%;
 	min-height: 300px;
 	text-align: left;
-	color: #11FF00;
+	color: $white;
 	@media #{$small} {
 		display: block !important;
 	}
@@ -75,7 +75,7 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	background-color: #0094FF;
+	background-color: #CCCCCC;
 	color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
@@ -104,7 +104,7 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: 4rem auto;
-	background: #A900FF;
+	background: #CCCCCC;
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
@@ -120,7 +120,7 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: -3rem auto 4rem;
-	background: #FF00B9;
+	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
@@ -151,7 +151,7 @@ body {
         border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
         @include rounded(3px);
         text-decoration: none;
-        background-color: #ACD1B6;
+        background-color: #FF0000;
         color: $color_tuatara;
         @include transition(.75s);
         margin: 2px 5px;
@@ -160,11 +160,11 @@ body {
 			padding: 2px 6px;
 		}
 		.count {
-			background-color: darken(#ACD1B6,15);
+			background-color: darken(#0010FF,15);
 			@include border-radius(3px,3px,0,0);
 		}
 		&:hover {
-			background-color: darken(#ACD1B6,15);
+			background-color: darken(#FF00ED,15);
 			box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
 		}
 	}
@@ -198,7 +198,7 @@ header .entry-meta {
         background-image: none !important;
     }
     @media #{$medium} {
-        color: #ACD1B6;
+        color: #0002FF;
         padding: 4em;
         margin-left: -4rem;
         margin-right: -4rem;
@@ -209,7 +209,7 @@ header .entry-meta {
         background-position: center center;
     }
     @media #{$notsmall} {
-        color: #ACD1B6;
+        color: #00F3FF;
         padding: 10em;
         margin-left: -4rem;
         margin-right: -4rem;

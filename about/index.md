@@ -6,7 +6,7 @@ date: 2019-04-03
 comments: false
 ---
     
-{% <a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> %}
+{% <a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme. %}
 
 Glad you made it here! My name is Shuusei Yoshida and I'm currently studying Computer Engineering at UCSD. I made this site mostly so that you can get to know all about me, what I'm currently doing, and what I've done so far in a few easy clicks. Hope you enjoy!
 

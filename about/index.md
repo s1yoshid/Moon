@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, resume]
+date: 2019-04-03
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
+## Test Test
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration
@@ -19,6 +19,8 @@ comments: false
 * Optional background image
 * Simple navigation menu
 * MathJax support
+
+<a href="assets/resume/College\ Resume.pdf"><b>Download Resume</b></a>
 
 ## Preview
 

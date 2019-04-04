@@ -20,7 +20,7 @@ comments: false
 * Simple navigation menu
 * MathJax support
 
-<a href="assets/resume/College\ Resume.pdf"><b>Download Resume</b></a>
+<a href="assets/resume/College\ Resume.pdf" download="College Resume"><b>Download Resume</b></a>
 
 ## Preview
 

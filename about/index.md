@@ -22,15 +22,12 @@ comments: false
 
 <a href="resume.pdf" download><b>Download Resume</b></a>
 
-## Preview
+## It's Me!
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://user-images.githubusercontent.com/36279762/55535130-18425300-566b-11e9-9477-8fd4a8bafc01.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+{% include gallery images=images caption="Pictures of Me" cols=2 %}
 
 ## Getting Started
 

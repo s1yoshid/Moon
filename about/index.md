@@ -27,10 +27,12 @@ comments: false
 {% capture images %}
     https://user-images.githubusercontent.com/36279762/55535130-18425300-566b-11e9-9477-8fd4a8bafc01.jpg
 {% endcapture %}
-{% include gallery images=images caption="Pictures of Me" cols=2 %}
+{% include gallery images=images caption="Pictures of Me" cols=1 %}
 
 ## Getting Started
-
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+[Download Resume](https://github.com/s1yoshid/s1yoshid.github.io/files/3042072/resume.pdf
+){: .btn}

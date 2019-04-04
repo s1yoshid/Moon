@@ -20,7 +20,12 @@ Glad you made it here! My name is Shuusei Yoshida and I'm currently studying Com
 {% capture images %}
     https://user-images.githubusercontent.com/36279762/55535130-18425300-566b-11e9-9477-8fd4a8bafc01.jpg
 {% endcapture %}
-{% include gallery images=images caption="Pictures of Me" cols=1 %}
+{% include gallery images=images caption="Pictures of Me" cols=2 %}
+
+{% capture images %}
+    https://user-images.githubusercontent.com/36279762/55571740-f07adb80-56ba-11e9-9063-b6ec12c218d4.jpg
+{% endcapture %}
+{% include gallery images=images caption="Decorations Committee for Fusion Hip-Hop Dance Competition" cols=2 %} 
 
 [Download Resume](https://github.com/s1yoshid/s1yoshid.github.io/files/3042072/resume.pdf
 ){: .btn}

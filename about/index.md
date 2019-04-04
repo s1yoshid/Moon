@@ -6,21 +6,16 @@ date: 2019-04-03
 comments: false
 ---
     
-<a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+/*<a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> */
 
-## Test Test
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Glad you made it here! My name is Shuusei Yoshida and I'm currently studying Computer Engineering at UCSD. I made this site mostly so that you can get to know all about me, what I'm currently doing, and what I've done so far in a few easy clicks. Hope you enjoy!
 
-<a href="resume.pdf" download><b>Download Resume</b></a>
+## Skills
+* Excellent deductive and lateral thinking skills
+* Very goal-oriented mindset
+* Proficient in Java, C, C++
+* Bilingual (English, Japanese)
+* Proficient in Office programs
 
 ## It's Me!
 
@@ -29,10 +24,8 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Pictures of Me" cols=1 %}
 
-## Getting Started
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+/*## Getting Started
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information. */
 
 [Download Resume](https://github.com/s1yoshid/s1yoshid.github.io/files/3042072/resume.pdf
 ){: .btn}

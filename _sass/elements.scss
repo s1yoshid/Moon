@@ -6,7 +6,7 @@
 	border-radius: 3px;
 	text-decoration: none;
 	//edited by shuu
-    background: #ACD1B6;
+    background: $color_plant_green;
 	color: $color_shark;
 	&:hover {
 		box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
@@ -121,7 +121,7 @@ img {
 .img-circle {
 	border-radius: 50%;
     //edited by shuu
-	border: 3px solid #ACD1B6;
+	border: 3px solid $color_plant_green;
 	height: 150px;
 	width: 150px;
 }

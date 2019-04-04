@@ -8,7 +8,7 @@ feature: https://user-images.githubusercontent.com/36279762/55574979-a269d600-56
 comments: false
 ---
 
-This is the official launch of my personal portfolio website that I created during my time of curiosity and bored-ness. Feel free to take a look!
+This is the official launch of my personal portfolio website that I created during my time of curiosity and bored-ness. There is still alot of things to do for the website so it looks less empty but feel free to take a look! Thanks!
 
 ## Goals for this Website
 

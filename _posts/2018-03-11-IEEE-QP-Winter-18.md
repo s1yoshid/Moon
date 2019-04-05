@@ -20,9 +20,9 @@ The <b>Get Posturized</b> is a prototype device that helps correct unhealthy pos
  * Afterwards, the device will vibrate whenever you lean to far forwards or backwards from the ideal posture and the app will notify you      of the incorrect posture.
 
 {% capture images %}
-    https://user-images.githubusercontent.com/36279762/55610775-830d9000-5738-11e9-8514-8bdf0ab0dc98.JPG
+    https://user-images.githubusercontent.com/36279762/55611836-91a97680-573b-11e9-9425-d007576538d1.jpg
 {% endcapture %}
-{% include gallery images=images caption="Here, the device is being worn by a user along with a shot of the app." cols=1 %}
+{% include gallery images=images caption="Here, the device is being worn by a user along with a shot of the app. TEST" cols=1 %}
 
 ## Tools Used  
  * C++ plus Arduino specific coding

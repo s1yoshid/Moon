@@ -22,7 +22,7 @@ The <b>Get Posturized</b> is a prototype device that helps correct unhealthy pos
 {% capture images %}
     https://user-images.githubusercontent.com/36279762/55611836-91a97680-573b-11e9-9425-d007576538d1.jpg
 {% endcapture %}
-{% include gallery images=images caption="Here, the device is being worn by a user along with a shot of the app. TEST" cols=1 %}
+{% include gallery images=images caption="Here, the device is being worn by a user along with a shot of the app." cols=3 %}
 
 ## Tools Used  
  * C++ plus Arduino specific coding

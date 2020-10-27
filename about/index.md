@@ -6,7 +6,7 @@ date: 2019-04-03
 comments: false
 ---
 
-Glad you made it here! My name is Shuusei Yoshida and I'm currently studying Computer Engineering at UCSD. I made this site mostly so that you can get to know all about me, what I'm currently doing, and what I've done so far in a few easy clicks. Hope you enjoy!
+Welcome! My name is Shuusei Yoshida and I'm currently a fourth-year computer engineering at UCSD. My current interest is in hardware design and more specifically CPU design. I made this personal website mostly so that you can get to know all about me, what I'm currently doing, and what I've done so far at UCSD. Hope you enjoy!
 
 ## Skills
 * Excellent deductive and lateral thinking skills

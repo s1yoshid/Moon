@@ -8,5 +8,5 @@ Welcome! My name is Shuusei Yoshida and I'm currently a fourth-year computer eng
 
 ## Links
 **IEEE Home Page**  
-https://www.ieee.org/
+(https://www.ieee.org/)
 

@@ -12,10 +12,10 @@ comments: false
 
 ## Computer Technology
 
-**Tom's Hardware**
+**Tom's Hardware**  
 [https://www.tomshardware.com/](https://www.tomshardware.com/)
 
-**PassMark Software**
+**PassMark Software**  
 [https://www.passmark.com/](https://www.passmark.com/)
 
 ## UCSD

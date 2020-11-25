@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Links
-tags: [links, resume]
-date: 2020-11-24
 comments: false
 ---
 

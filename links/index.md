@@ -18,6 +18,4 @@ Welcome! My name is Shuusei Yoshida and I'm currently a fourth-year computer eng
 **PassMark Software**  
 [https://www.passmark.com/](https://www.passmark.com/)
 
-## UCSD
-
 

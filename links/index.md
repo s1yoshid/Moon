@@ -3,9 +3,6 @@ layout: page
 title: Annotated Links
 comments: false
 ---
-
-Welcome! My name is Shuusei Yoshida and I'm currently a fourth-year computer engineering at UCSD. First and foremost, I love to build and deconstruct things. Whether it be a computer or a pen, I have the utmost curiosity for how they work. My current interest is in hardware design and more specifically CPU design. I made this personal website mostly so that you can get to know all about me, what I'm currently doing, and what I've done so far at UCSD. Hope you enjoy!
-
 ## UCSD Affiliated Sites
 **IEEE UCSD Home Page**  
 UCSD is home to the San Diego IEEE organization which provides many opportunities to students at UCSD and in the larger STEM community. I had the opportunity to participate in the organization over a few quarters and taught me many things outside of classes. I had the chance to work on a project in a team during a quarter and meet many people who were very passionate about engineering.  

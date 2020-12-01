@@ -21,7 +21,8 @@ body {
 	background-attachment: fixed;
 	@media #{$small} {
 	    background-image: none !important;
-		background: $white;
+		//background: $white;
+        background: #FFF600;
 	}
 }
 * {
@@ -39,7 +40,8 @@ body {
 	width: 100%;
 	min-height: 300px;
 	text-align: left;
-	color: $white;
+	//color: $white;
+    color: #01ff56;
 	@media #{$small} {
 		display: block !important;
 	}

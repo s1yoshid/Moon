@@ -27,5 +27,5 @@ Welcome! My name is Shuusei Yoshida and I'm currently a fourth-year computer eng
 {% endcapture %}
 {% include gallery images=images caption="Decorations Committee for Fusion Hip-Hop Dance Competition" cols=2 %} 
 
-[Download Resume](https://github.com/s1yoshid/s1yoshid.github.io/blob/master/assets/resume/Resume20200209-1-u80kfh20200209-1-19pyiuh.pdf
+[Download Resume](https://github.com/s1yoshid/s1yoshid.github.io/files/5620338/New.Resume.pdf
 ){: .btn}

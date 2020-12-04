@@ -5,7 +5,7 @@ date: 2019-04-04
 excerpt: "The official launch of my website."
 tags: [post, launch, image]
 feature: https://user-images.githubusercontent.com/36279762/55575750-7fd8bc80-56c4-11e9-853a-7ef6fb64cf27.jpg
-comments: false
+comments: true
 ---
 
 This is the official launch of my personal portfolio website that I created during my time of curiosity and bored-ness. There is still alot of things to do for the website so it looks less empty but feel free to take a look! Thanks!

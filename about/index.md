@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-tags: [about, resume]
 date: 2019-04-03
 comments: false
 ---

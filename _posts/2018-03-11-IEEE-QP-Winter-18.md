@@ -4,10 +4,6 @@ title: "Get Posturized"
 date: 2018-03-11
 excerpt: "A prototype posture correction device."
 project: true
-tag:
-- IEEE
-- project
-- device
 comments: false
 ---
 The <b>Get Posturized</b> is a prototype device that helps correct unhealthy posture and alleviates their negative effects. It uses a gyroscope to detect the optimal position relative to the body posture. 

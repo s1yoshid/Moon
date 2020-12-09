@@ -3,7 +3,7 @@ layout: post
 title: "The new Apple M1 chip"
 date: 2020-11-17
 excerpt: "The new Apple M1 chip has recently been launched so I thought I might talk a bit about it."
-tags: [Apple, cpu]
+tags: [Apple, CPU]
 feature: https://user-images.githubusercontent.com/36279762/101106251-851a9880-3584-11eb-911a-f17c97411223.png
 comments: true
 ---

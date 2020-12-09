@@ -3,7 +3,7 @@ layout: post
 title: "Official Start!"
 date: 2019-04-04
 excerpt: "The official launch of my website."
-tags: [launch, image]
+tags: [launch]
 feature: https://user-images.githubusercontent.com/36279762/55575750-7fd8bc80-56c4-11e9-853a-7ef6fb64cf27.jpg
 comments: true
 ---

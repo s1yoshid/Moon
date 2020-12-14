@@ -10,7 +10,7 @@ UCSD is home to the San Diego IEEE organization which provides many opportunitie
 ){: .btn}
 
 ## Computer Technology
-**Operating Systems Free Textbook**
+**Operating Systems Textbook**  
 Textbooks are so expensive when almost all the information you need is avaliable on the internet. This is a free textbook PDF that I used for one of my CSE courses that is packed full of information on what an operating system is and how they work. I recommend this to anyone who is interested in OS's especially since it's completely free.  
 [pages.cs.wisc.edu/~remzi/OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/
 ){: .btn}

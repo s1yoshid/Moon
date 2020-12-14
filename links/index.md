@@ -9,7 +9,7 @@ UCSD is home to the San Diego IEEE organization which provides many opportunitie
 [https://ieeeucsd.org/](https://ieeeucsd.org/)
 
 ## Computer Technology
-**EDA Playground**
+**EDA Playground**  
 Almost all the time, simulating, synthesizing, and verifying HDL code requires specialized tools such as Quartus Prime or ModelSim, but EDA Playground allows users to do almost all that entirely on a web browser. I've used EDA Playground many times for doing small projects in various ECE courses and I recommend it to anyone who is studying/interested in HDLs.  
 [https://www.edaplayground.com/](https://www.edaplayground.com/)
 

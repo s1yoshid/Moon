@@ -3,6 +3,11 @@ layout: page
 title: Extra Information
 comments: false
 ---
+**IEEE Xplore**
+IEEE Xplore is a digital library home to more than five million full-text documents from some of the world's most highly-cited publications in electronics. It does require a subscription however, thanks to UCSD's association with IEEE, you can use the UCSD VPN service to view most or any publication which I highly recommend as all of them are packed full of interesting information.
+[ieeexplore.ieee.org](https://ieeexplore.ieee.org/Xplore/home.jsp
+){: .btn}
+
 **IEEE UCSD**  
 UCSD is home to the San Diego IEEE organization which provides many opportunities to students at UCSD and in the larger STEM community. I had the opportunity to participate in the organization over a few quarters and taught me many things outside of classes. I had the chance to work on a project in a team during a quarter and meet many people who were very passionate about engineering.  
 [ieeeucsd.org](https://ieeeucsd.org/

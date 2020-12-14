@@ -5,7 +5,7 @@ date: 2019-04-03
 comments: false
 ---
 <center>
-<h3 class="title" style="font-size:30px;">
+<h3 class="title" style="font-size:15px;">
 <a class="social-btn" href="mailto:shuuseiyoshida@gmail.com" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i></a>
 <a class="social-btn" href="http://linkedin.com/in/shuusei-yoshida-b5987813a" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i></a>
 <a class="social-btn" href="http://github.com/s1yoshid" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i></a>

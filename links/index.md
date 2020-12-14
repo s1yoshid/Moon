@@ -10,6 +10,11 @@ UCSD is home to the San Diego IEEE organization which provides many opportunitie
 ){: .btn}
 
 ## Computer Technology
+**Operating Systems Free Textbook**
+Textbooks are so expensive when almost all the information you need is avaliable on the internet. This is a free textbook PDF that I used for one of my CSE courses that is packed full of information on what an operating system is and how they work. I recommend this to anyone who is interested in OS's especially since it's completely free.  
+[pages.cs.wisc.edu/~remzi/OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/
+){: .btn}
+
 **EDA Playground**  
 Almost all the time, simulating, synthesizing, and verifying HDL code requires specialized tools such as Quartus Prime or ModelSim, but EDA Playground allows users to do almost all that entirely on a web browser. I've used EDA Playground many times for doing small projects in various ECE courses and I recommend it to anyone who is studying/interested in HDLs.  
 [www.edaplayground.com](https://www.edaplayground.com/

@@ -11,7 +11,7 @@ UCSD is home to the San Diego IEEE organization which provides many opportunitie
 ## Computer Technology
 
 **Tom's Hardware**  
-Tom's Hardware is a blog all about everything hardware. It is a good place to read all about the newest hardware ranging from CPUs to gaming consoles. They are a trustworthy blog that have been around for a long time and their reviews and articles are must-reads.
+Tom's Hardware is a blog all about everything hardware. It is a good place to read all about the newest hardware ranging from CPUs to gaming consoles. They are a trustworthy blog that have been around for a long time and their reviews and articles are must-reads.  
 [https://www.tomshardware.com/](https://www.tomshardware.com/)  
 
 **PassMark Software**  

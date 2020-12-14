@@ -4,7 +4,7 @@ title: Annotated Links
 comments: false
 ---
 ## UCSD Affiliated Sites
-**IEEE UCSD Home Page**  
+**IEEE UCSD**  
 UCSD is home to the San Diego IEEE organization which provides many opportunities to students at UCSD and in the larger STEM community. I had the opportunity to participate in the organization over a few quarters and taught me many things outside of classes. I had the chance to work on a project in a team during a quarter and meet many people who were very passionate about engineering.  
 [ieeeucsd.org](https://ieeeucsd.org/
 ){: .btn}

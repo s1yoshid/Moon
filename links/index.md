@@ -3,13 +3,11 @@ layout: page
 title: Annotated Links
 comments: false
 ---
-## UCSD Affiliated Sites
 **IEEE UCSD**  
 UCSD is home to the San Diego IEEE organization which provides many opportunities to students at UCSD and in the larger STEM community. I had the opportunity to participate in the organization over a few quarters and taught me many things outside of classes. I had the chance to work on a project in a team during a quarter and meet many people who were very passionate about engineering.  
 [ieeeucsd.org](https://ieeeucsd.org/
 ){: .btn}
 
-## Computer Technology
 **Operating Systems Textbook**  
 Textbooks are so expensive when almost all the information you need is avaliable on the internet. This is a free textbook PDF that I used for one of my CSE courses that is packed full of information on what an operating system is and how they work. I recommend this to anyone who is interested in OS's especially since it's completely free.  
 [pages.cs.wisc.edu/~remzi/OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/

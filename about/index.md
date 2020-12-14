@@ -5,9 +5,11 @@ date: 2019-04-03
 comments: false
 ---
 <center>
+<h3 class="title" style="font-size:30px;">
 <a class="social-btn" href="mailto:shuuseiyoshida@gmail.com" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i></a>
 <a class="social-btn" href="http://linkedin.com/in/shuusei-yoshida-b5987813a" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i></a>
 <a class="social-btn" href="http://github.com/s1yoshid" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i></a>
+</h3>
 </center>
 
 Welcome! My name is Shuusei Yoshida and I'm currently a fourth-year computer engineering at UCSD. First and foremost, I love to build and deconstruct things. Whether it be a computer or a pen, I have the utmost curiosity for how they work. My current interest is in hardware design and more specifically CPU design. I made this personal website mostly so that you can get to know all about me, what I'm currently doing, and what I've done so far at UCSD. Hope you enjoy!  
